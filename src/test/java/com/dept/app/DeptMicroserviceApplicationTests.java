@@ -8,6 +8,7 @@ class DeptMicroserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("running the tests");
 	}
 
 }
